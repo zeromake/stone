@@ -1,0 +1,8 @@
+[package]
+name = "stone"
+version = "0.1.0"
+authors = ["zeromake <a390720046@gmail.com>"]
+license = 'MIT'
+
+[dependencies]
+regex = "1"
